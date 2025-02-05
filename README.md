@@ -1,2 +1,2 @@
 # cake
-个人蛋糕店App
+personal cake shop App
